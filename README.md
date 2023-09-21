@@ -1,4 +1,4 @@
-# **SQLite3 for x86**
+# **SQLite for x86**
 
 ## Description
 
